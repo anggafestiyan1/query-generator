@@ -1,3 +1,13 @@
-psycopg2-binary==2.9.9
-pandas==2.1.4
-openpyxl==3.1.2
+# Database Explorer Requirements
+# ==============================
+# Install with: pip install -r requirements.txt
+
+# Database
+psycopg2-binary>=2.9.0
+
+# Data processing
+pandas>=1.5.0
+openpyxl>=3.0.0
+
+# Build tools (optional, for creating installer)
+pyinstaller>=5.0.0
