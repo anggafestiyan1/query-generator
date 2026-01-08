@@ -1,8 +1,8 @@
 # =============================================================================
 # SENSITIVE CONFIG FILES - JANGAN COMMIT!
 # =============================================================================
-config/databases.py
-config/mappings.py
+credentials/databases.py
+credentials/mappings.py
 
 # =============================================================================
 # CLAUDE CODE CONFIG (local settings)
